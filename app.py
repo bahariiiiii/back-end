@@ -3,7 +3,7 @@ from flask_cors import CORS
 import numpy as np
 import xgboost as xgb
 import os
-#test
+#http://nl.smait.ir
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all domains
